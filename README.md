@@ -17,7 +17,7 @@ Black Star is a fictional clothing shopping site made as an object of study.
 <br>
 ...or click on the link: [ Black Star Site](https://black-star-delfo2.vercel.app)
 <br>
-...or see the code: [ Black Star Repository](https://github.com/delfo2/Black-Star)
+...or see the code: [ Black Star Repository](https://github.com/carloMorais/Black-Star)
 <p>
 <a target="_blank" rel="noreferrer noopener" href="https://black-star-delfo2.vercel.app">
   <img src="horizontal.png" alt="Black Star site" width="500" height="370" style="object-fit: contain;"/>
@@ -30,8 +30,8 @@ Black Star is a fictional clothing shopping site made as an object of study.
 
 ## Knowlegment <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Black%20Bird.png" alt="Black Bird" width="25" height="25" />
 <p>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=delfo2&layout=compact&bg_color=000&border_color=FFF&title_color=FFF&text_color=FFF" height="150">
-<img src="https://github-readme-stats.vercel.app/api?username=delfo2&theme=transparent&bg_color=000&border_color=FFFFFF&show_icons=true&icon_color=30A3DC&title_color=FFF&text_color=FFF" height="150">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=carloMorais&layout=compact&bg_color=000&border_color=FFF&title_color=FFF&text_color=FFF" height="150">
+<img src="https://github-readme-stats.vercel.app/api?username=carloMorais&theme=transparent&bg_color=000&border_color=FFFFFF&show_icons=true&icon_color=30A3DC&title_color=FFF&text_color=FFF" height="150">
 </p>
 
 <p>
