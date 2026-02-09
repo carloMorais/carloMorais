@@ -31,7 +31,13 @@ Black Star is a fictional clothing shopping site made as an object of study.
 ## Knowlegment <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Black%20Bird.png" alt="Black Bird" width="25" height="25" />
 <p>
 <!-- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=carloMorais&layout=compact&bg_color=000&border_color=FFF&title_color=FFF&text_color=FFF" height="150"> -->
-<img src="https://github-readme-stats.vercel.app/api?username=carloMorais&theme=transparent&bg_color=000&border_color=FFFFFF&show_icons=true&icon_color=30A3DC&title_color=FFF&text_color=FFF" height="150">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=carloMorais&theme=transparent&bg_color=000&border_color=FFFFFF&show_icons=true&icon_color=30A3DC&title_color=FFF&text_color=FFF" height="150"> -->
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=carloMorais)](https://github.com/carloMorais/github-readme-stats) -->
+<a href="https://nice-readme.vercel.app/github-stats" target="_blank" rel="noopener noreferrer">
+  <img src="https://helio-github-stats.vercel.app/api?username=carloMorais&custom_title=GitHub+Stats&theme=github_dark&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&ring_color=2f80ed&border_color=e4e2e2&hide_border=true&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=false&include_all_commits=true&line_height=25&text_bold=true&disable_animations=false&number_format=short" alt="GitHub Stats" width="466" height="auto" loading="lazy" />
+</a>
+<a href="https://nice-readme.vercel.app/top-langs" target="_blank" rel="noopener noreferrer">
+  <img src="https://helio-github-stats.vercel.app/api/top-langs?username=carloMorais&layout=compact&stats_format=percentages&theme=dark&hide_border=true&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=8&count_weight=0.5" alt="Linguagens mais usadas" width="466" height="auto" loading="lazy" /></a>
 </p>
 
 <p>
@@ -60,4 +66,8 @@ Black Star is a fictional clothing shopping site made as an object of study.
 <img src="https://skillicons.dev/icons?i=vscode" width="25" height="25"/>
 <img src="https://skillicons.dev/icons?i=postman" width="25" height="25"/>
 <img src="https://skillicons.dev/icons?i=ps" width="25" height="25"/>
+</p>
+
+<p>
+  <a href="https://nice-readme.vercel.app/views-badge" target="_blank" rel="noopener noreferrer"><img src="https://komarev.com/ghpvc/?username=carloMorais&style=flat" alt="Profile Views" loading="lazy" /></a>
 </p>
