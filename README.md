@@ -1,70 +1,38 @@
-# Hi, how are you? <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Black%20Cat.png" alt="Black Cat" width="25" height="25"/>
+## Hi, I'm Carlos 👋
 
-Highly motivated Full-Stack developer experienced in creating attractive and responsive user interfaces.
-<br>
-Deep mastery of HTML, CSS, JavaScript, Typescript, NodeJS, Express and Angular.
-<br>
-Solid knowlegment in Databases such as MySQL and PostgreSQL
+**Full-Stack Developer** · React, Node.js, NestJS, PostgreSQL · Jacareí, Brazil · remote
 
-## Quick View <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" alt="Magnifying Glass Tilted Left" width="25" height="25" />
+I build web products end to end, from the database to the interface. Today I work at **Plumaa**, a mental health platform, where I'm the backend developer and a technical reference for a small squad. Before that, a conversational AI startup (WhatsApp, LLMs, MCP) and Power Platform apps at **Bayer**.
 
-### Black Star <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="18" height="18" />
+### 🔗 [portfolio-carlomorais.vercel.app](https://portfolio-carlomorais.vercel.app)
 
+Case studies for each role (the problem, the decisions, the architecture and the outcome), career and resume, in Portuguese and English.
 
-Black Star is a fictional clothing shopping site made as an object of study.
-<br>
-**You can access by clicking on the images**
-<br>
-...or click on the link: [ Black Star Site](https://black-star-delfo2.vercel.app)
-<br>
-...or see the code: [ Black Star Repository](https://github.com/carloMorais/Black-Star)
-<p>
-<a target="_blank" rel="noreferrer noopener" href="https://black-star-delfo2.vercel.app">
-  <img src="horizontal.png" alt="Black Star site" width="500" height="370" style="object-fit: contain;"/>
-  <img src="vertical.png" alt="Black Star site" width="300" height="400" style="object-fit: contain;" />
-</a>
-<p>
+> 🇧🇷 Desenvolvedor Full-Stack. No portfólio estão os estudos de caso de cada experiência, a trajetória e o currículo, em português e inglês.
 
+### Highlights
 
+- **[portfolio](https://github.com/carloMorais/portfolio)**: the source of the site above. Next.js 16, TypeScript, Tailwind, next-intl. Jest and Playwright (desktop, mobile and axe accessibility) run in CI, along with tests that check the site's claims against the facts.
+- **[RaceGame](https://github.com/Projeto-Ciclo-2/RaceGame)**: a real-time multiplayer racing game for up to 10 players, built at Alpha EdTech. Authoritative server game loop at 30 ticks/s, client-side prediction and interpolation on Canvas, over WebSocket. I led the team of 4 and wrote the game engine.
 
+### Experience
 
-## Knowlegment <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Black%20Bird.png" alt="Black Bird" width="25" height="25" />
-<p>
-<!-- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=carloMorais&layout=compact&bg_color=000&border_color=FFF&title_color=FFF&text_color=FFF" height="150"> -->
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=carloMorais&theme=transparent&bg_color=000&border_color=FFFFFF&show_icons=true&icon_color=30A3DC&title_color=FFF&text_color=FFF" height="150"> -->
-<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=carloMorais)](https://github.com/carloMorais/github-readme-stats) -->
-<a href="https://nice-readme.vercel.app/github-stats" target="_blank" rel="noopener noreferrer">
-  <img src="https://helio-github-stats.vercel.app/api?username=carloMorais&custom_title=GitHub+Stats&theme=github_dark&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&ring_color=2f80ed&border_color=e4e2e2&hide_border=true&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=false&include_all_commits=true&line_height=25&text_bold=true&disable_animations=false&number_format=short" alt="GitHub Stats" width="466" height="auto" loading="lazy" />
-</a>
-<a href="https://nice-readme.vercel.app/top-langs" target="_blank" rel="noopener noreferrer">
-  <img src="https://helio-github-stats.vercel.app/api/top-langs?username=carloMorais&layout=compact&stats_format=percentages&theme=dark&hide_border=true&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=8&count_weight=0.5" alt="Linguagens mais usadas" width="466" height="auto" loading="lazy" /></a>
-</p>
+| When        | Where                     | What                                                                                       |
+| ----------- | ------------------------- | ------------------------------------------------------------------------------------------ |
+| 2026 — now  | Plumaa                    | Full-Stack Developer: NestJS, Prisma, PostgreSQL, Stripe, Google APIs, AI session summaries |
+| 2025 — 2026 | Conversational AI startup | Software Developer: WhatsApp Business API, campaigns, MCP integrations                     |
+| 2024 — 2025 | Bayer                     | Power Platform Developer (intern): Power Apps, Power Automate                              |
+| 2023 — 2025 | Alpha EdTech              | Full-time full-stack program, ~3,000 hours of hands-on practice                            |
+
+### Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=express" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=ts" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=prisma" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=nestjs" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=react" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=angular" width="40" height="40"/>
-</p>
-<p>  
-<img src="https://skillicons.dev/icons?i=rabbitmq" width="35" height="35"/>
-<img src="https://skillicons.dev/icons?i=nginx" width="35" height="35"/>
-<img src="https://skillicons.dev/icons?i=docker" width="35" height="35"/>
-<img src="https://skillicons.dev/icons?i=postgres" width="35" height="35"/>
-<img src="https://skillicons.dev/icons?i=mysql" width="35" height="35"/>
-<img src="https://skillicons.dev/icons?i=vercel" width="35" height="35"/>
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,nestjs,express,prisma,postgres,redis&perline=9" alt="TypeScript, React, Next.js, Node.js, NestJS, Express, Prisma, PostgreSQL, Redis" height="40" />
 </p>
 <p>
-<img src="https://skillicons.dev/icons?i=figma" width="25" height="25"/>
-<img src="https://skillicons.dev/icons?i=github" width="25" height="25"/>
-<img src="https://skillicons.dev/icons?i=vscode" width="25" height="25"/>
-<img src="https://skillicons.dev/icons?i=postman" width="25" height="25"/>
-<img src="https://skillicons.dev/icons?i=ps" width="25" height="25"/>
+  <img src="https://skillicons.dev/icons?i=tailwind,angular,jest,docker,nginx,vercel,git,linux&perline=8" alt="Tailwind CSS, Angular, Jest, Docker, Nginx, Vercel, Git, Linux" height="40" />
 </p>
 
-<p>
-  <a href="https://nice-readme.vercel.app/views-badge" target="_blank" rel="noopener noreferrer"><img src="https://komarev.com/ghpvc/?username=carloMorais&style=flat" alt="Profile Views" loading="lazy" /></a>
-</p>
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/carlos-m-678974245) · [carlos13bem@gmail.com](mailto:carlos13bem@gmail.com) · [Portfolio](https://portfolio-carlomorais.vercel.app)
